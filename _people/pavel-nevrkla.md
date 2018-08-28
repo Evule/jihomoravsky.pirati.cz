@@ -1,7 +1,7 @@
 ---
 uid: pavel.nevrkla
 name:     Pavel Nevrkla  	# běžně používáné jméno
-fullname: Pavel Nevrkla  	# jméno s tituly etc.
+fullname: Mgr. Pavel Nevrkla  	# jméno s tituly etc.
 category:                 	# kategorie: kandidat, pks, zastupitel
 - pks
 - znojemsko
